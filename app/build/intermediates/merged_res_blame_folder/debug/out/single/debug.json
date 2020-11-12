@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_habit_list.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\layout\\fragment_habit_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_tea.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\ic_outline_tea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fastfood_selected.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\fastfood_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tea_selected.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\tea_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\menu_single_item_menu.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\menu\\single_item_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoking_selected.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\smoking_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_intro_item_page.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\layout\\intro_item_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_main.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\menu\\nav_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_smoking.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\ic_smoking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_create_habit_item.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\layout\\fragment_create_habit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v23_fragment_create_habit_item.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\layout-v23\\fragment_create_habit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_smoking2.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\ic_smoking2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_habit_item.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\layout\\recycler_habit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_fastfood_24.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\ic_baseline_fastfood_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_fastfood.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\ic_outline_fastfood.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\navigation_main_nav.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\navigation\\main_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_update_habit_item.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\layout\\fragment_update_habit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tea.xml.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\drawable\\ic_tea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Griff_Home_PC\\Documents\\GitHub\\HabitTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

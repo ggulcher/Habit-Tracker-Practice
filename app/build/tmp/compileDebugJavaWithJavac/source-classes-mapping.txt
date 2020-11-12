@@ -1,0 +1,15 @@
+com/example/habittracker/data/database/HabitDatabase_Impl.java
+ com.example.habittracker.data.database.HabitDatabase_Impl
+ com.example.habittracker.data.database.HabitDatabase_Impl$1
+com/example/habittracker/BuildConfig.java
+ com.example.habittracker.BuildConfig
+com/example/habittracker/logic/dao/HabitDao_Impl.java
+ com.example.habittracker.logic.dao.HabitDao_Impl
+ com.example.habittracker.logic.dao.HabitDao_Impl$1
+ com.example.habittracker.logic.dao.HabitDao_Impl$2
+ com.example.habittracker.logic.dao.HabitDao_Impl$3
+ com.example.habittracker.logic.dao.HabitDao_Impl$4
+ com.example.habittracker.logic.dao.HabitDao_Impl$5
+ com.example.habittracker.logic.dao.HabitDao_Impl$6
+ com.example.habittracker.logic.dao.HabitDao_Impl$7
+ com.example.habittracker.logic.dao.HabitDao_Impl$8

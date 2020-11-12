@@ -1,0 +1,295 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\eb39d3aff130dd35809384ffffd62847\navigation-fragment-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\6d3cd0499365bcc2a4c5ea66681503b0\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\eb3326a0250f5aba93a8caafdc8cd04a\navigation-ui-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ba0606a984df1a3c7872582aa30e9b57\navigation-runtime-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\27c7541d136ab37878264db925e8dab3\navigation-common-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\2af51a7e20bbaf5dfbb2dc6f91642228\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\4d5d30fae0b5160363f616d43e480c5d\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\bee81f9addc3033b4e9d664e559f04ce\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\f5329e3dd0ac18d10f0fdff870d4b56c\jetified-room-ktx-2.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e9170ae14592fe514acd3434ed7fe3b1\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ca65c0591f5d734608a7d9b24a31b7d0\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\29a438e4731544b6226934fb9e3826a4\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d8185c0d9e96a7354154d7ff4802e551\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\228c59fae4dc2b9d36d5b9e954d8dba0\jetified-materialdatetimepicker-4.2.3\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\9d980a80bd5c284808a58cb167ef5dff\navigation-ui-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\72f58b60fc513bc8dd44044c5948e613\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\54f1faac6ec98c792a52efa0c17cc4dc\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\bfc28fdbfd1b9dcda48d643f26dc6c20\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\fa6d11973baf3f01ce20b5a0c42bea2a\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\06c4ad93f8113f8650ad2d823b340f0f\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\83be8d7d38019ab1a9f8fb82d3a18bfc\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [me.relex:circleindicator:2.1.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\766ee4ea53d8c50f968cc65d2e3c61e4\jetified-circleindicator-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\0b91d0b277140246bf5dcd164488d496\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7a3d5b9097ef27790f4c764bac5541bb\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\2d6939f732a2560e52daec6e81968881\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\955b27debf9f5475f0cd6a02b8ed0cc0\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e30d46d07a372445a194b1200cbfcb0c\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e4b1012b06e7ce16b8832ef4ed65818c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e0bc58e0ef7bfacd993312d595c57f95\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7de076020994bcedcaa1d6a03d8fdb4c\navigation-fragment-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7b2c52470034aa7933d9cb7b7eecc66d\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7bb7f9daf00fe0eb65a6c21725f1e477\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\3f4b1fc74ad2f3ed3c32fa95967bd164\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\c3d1082b1a9b554d6041895a6978a030\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ab959421a247dd1430e028013d5865aa\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\283b326ac561574d9adede93ffec1130\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\67f3b754c614d90d8e24db109980b826\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\781df04842d3c0b4c71170a9a8d78ae4\drawerlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\3aa44a93bde00fb203a4d9ae534c555c\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\a7553d90fc575ea6bbe34131e4c2dcc9\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\2754a1331988f1b0681def11a76bb918\navigation-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\a6c8aa651721467e8b0c87dcc082a44e\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\52ffb2ac9496b41a6de60588fc0c88ec\navigation-common-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\584fb6f858501bd0571a910080596320\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\9b63ad8d92517de7c19aef3ad09fadc0\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\03e9120c67ba605228c22690fbdcd176\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\53d914772b76a41b99ebeb7d38cced52\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d7f08b37b4d7b7935d2f82e6a85ea332\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\25a4fcffc0358b7e69de342a82199bfd\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\f7129ed9c828ae9a705800a0fbddba92\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d284a0999e8a08afbc84bd187265d514\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\c4d2b3db94d0d5ede4cd7485ab2f075d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\05020283084f6d5fbd3f44c6e3d1114c\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\09f68eb3cd3c347260123539a0664a36\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\c5d9c62826a6449fc73a9047ef44e87f\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\67b98206da1c17c4c2c6fa386f0b2179\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\4163bd1c7674ced6549a5f0804e8122c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\9cd76c29d52005b7b6ac8956866bb8b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\8f57bdbd234893ecabd0b8af8b415887\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\77485acfa56a8861bb1bb12f65ec9640\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ca9d10a5b4b73c912b9affb8d044fb68\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d8185c0d9e96a7354154d7ff4802e551\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d8185c0d9e96a7354154d7ff4802e551\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\228c59fae4dc2b9d36d5b9e954d8dba0\jetified-materialdatetimepicker-4.2.3\AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\228c59fae4dc2b9d36d5b9e954d8dba0\jetified-materialdatetimepicker-4.2.3\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\72f58b60fc513bc8dd44044c5948e613\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\72f58b60fc513bc8dd44044c5948e613\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\fa6d11973baf3f01ce20b5a0c42bea2a\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\fa6d11973baf3f01ce20b5a0c42bea2a\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\06c4ad93f8113f8650ad2d823b340f0f\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\06c4ad93f8113f8650ad2d823b340f0f\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\584fb6f858501bd0571a910080596320\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\584fb6f858501bd0571a910080596320\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\67b98206da1c17c4c2c6fa386f0b2179\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\67b98206da1c17c4c2c6fa386f0b2179\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\584fb6f858501bd0571a910080596320\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:11:9-53
+activity#com.example.habittracker.ui.introscreen.IntroActivity
+ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:12:9-75
+	android:name
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:12:19-63
+activity#com.example.habittracker.MainActivity
+ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\eb39d3aff130dd35809384ffffd62847\navigation-fragment-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\eb39d3aff130dd35809384ffffd62847\navigation-fragment-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\6d3cd0499365bcc2a4c5ea66681503b0\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\6d3cd0499365bcc2a4c5ea66681503b0\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\eb3326a0250f5aba93a8caafdc8cd04a\navigation-ui-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\eb3326a0250f5aba93a8caafdc8cd04a\navigation-ui-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ba0606a984df1a3c7872582aa30e9b57\navigation-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ba0606a984df1a3c7872582aa30e9b57\navigation-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\27c7541d136ab37878264db925e8dab3\navigation-common-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\27c7541d136ab37878264db925e8dab3\navigation-common-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\2af51a7e20bbaf5dfbb2dc6f91642228\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\2af51a7e20bbaf5dfbb2dc6f91642228\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\4d5d30fae0b5160363f616d43e480c5d\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\4d5d30fae0b5160363f616d43e480c5d\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\bee81f9addc3033b4e9d664e559f04ce\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\bee81f9addc3033b4e9d664e559f04ce\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\f5329e3dd0ac18d10f0fdff870d4b56c\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\f5329e3dd0ac18d10f0fdff870d4b56c\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e9170ae14592fe514acd3434ed7fe3b1\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e9170ae14592fe514acd3434ed7fe3b1\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ca65c0591f5d734608a7d9b24a31b7d0\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ca65c0591f5d734608a7d9b24a31b7d0\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\29a438e4731544b6226934fb9e3826a4\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\29a438e4731544b6226934fb9e3826a4\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d8185c0d9e96a7354154d7ff4802e551\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d8185c0d9e96a7354154d7ff4802e551\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\228c59fae4dc2b9d36d5b9e954d8dba0\jetified-materialdatetimepicker-4.2.3\AndroidManifest.xml:22:5-24:41
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\228c59fae4dc2b9d36d5b9e954d8dba0\jetified-materialdatetimepicker-4.2.3\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\9d980a80bd5c284808a58cb167ef5dff\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\9d980a80bd5c284808a58cb167ef5dff\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\72f58b60fc513bc8dd44044c5948e613\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\72f58b60fc513bc8dd44044c5948e613\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\54f1faac6ec98c792a52efa0c17cc4dc\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\54f1faac6ec98c792a52efa0c17cc4dc\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\bfc28fdbfd1b9dcda48d643f26dc6c20\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\bfc28fdbfd1b9dcda48d643f26dc6c20\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\fa6d11973baf3f01ce20b5a0c42bea2a\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\fa6d11973baf3f01ce20b5a0c42bea2a\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\06c4ad93f8113f8650ad2d823b340f0f\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\06c4ad93f8113f8650ad2d823b340f0f\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\83be8d7d38019ab1a9f8fb82d3a18bfc\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\83be8d7d38019ab1a9f8fb82d3a18bfc\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [me.relex:circleindicator:2.1.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\766ee4ea53d8c50f968cc65d2e3c61e4\jetified-circleindicator-2.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [me.relex:circleindicator:2.1.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\766ee4ea53d8c50f968cc65d2e3c61e4\jetified-circleindicator-2.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\0b91d0b277140246bf5dcd164488d496\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\0b91d0b277140246bf5dcd164488d496\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7a3d5b9097ef27790f4c764bac5541bb\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7a3d5b9097ef27790f4c764bac5541bb\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\2d6939f732a2560e52daec6e81968881\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\2d6939f732a2560e52daec6e81968881\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\955b27debf9f5475f0cd6a02b8ed0cc0\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\955b27debf9f5475f0cd6a02b8ed0cc0\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e30d46d07a372445a194b1200cbfcb0c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e30d46d07a372445a194b1200cbfcb0c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e4b1012b06e7ce16b8832ef4ed65818c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e4b1012b06e7ce16b8832ef4ed65818c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e0bc58e0ef7bfacd993312d595c57f95\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\e0bc58e0ef7bfacd993312d595c57f95\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7de076020994bcedcaa1d6a03d8fdb4c\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7de076020994bcedcaa1d6a03d8fdb4c\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7b2c52470034aa7933d9cb7b7eecc66d\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7b2c52470034aa7933d9cb7b7eecc66d\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7bb7f9daf00fe0eb65a6c21725f1e477\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\7bb7f9daf00fe0eb65a6c21725f1e477\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\3f4b1fc74ad2f3ed3c32fa95967bd164\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\3f4b1fc74ad2f3ed3c32fa95967bd164\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\c3d1082b1a9b554d6041895a6978a030\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\c3d1082b1a9b554d6041895a6978a030\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ab959421a247dd1430e028013d5865aa\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ab959421a247dd1430e028013d5865aa\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\283b326ac561574d9adede93ffec1130\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\283b326ac561574d9adede93ffec1130\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\67f3b754c614d90d8e24db109980b826\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\67f3b754c614d90d8e24db109980b826\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\781df04842d3c0b4c71170a9a8d78ae4\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\781df04842d3c0b4c71170a9a8d78ae4\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\3aa44a93bde00fb203a4d9ae534c555c\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\3aa44a93bde00fb203a4d9ae534c555c\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\a7553d90fc575ea6bbe34131e4c2dcc9\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\a7553d90fc575ea6bbe34131e4c2dcc9\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\2754a1331988f1b0681def11a76bb918\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\2754a1331988f1b0681def11a76bb918\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\a6c8aa651721467e8b0c87dcc082a44e\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\a6c8aa651721467e8b0c87dcc082a44e\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\52ffb2ac9496b41a6de60588fc0c88ec\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\52ffb2ac9496b41a6de60588fc0c88ec\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\584fb6f858501bd0571a910080596320\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\584fb6f858501bd0571a910080596320\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\9b63ad8d92517de7c19aef3ad09fadc0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\9b63ad8d92517de7c19aef3ad09fadc0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\03e9120c67ba605228c22690fbdcd176\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\03e9120c67ba605228c22690fbdcd176\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\53d914772b76a41b99ebeb7d38cced52\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\53d914772b76a41b99ebeb7d38cced52\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d7f08b37b4d7b7935d2f82e6a85ea332\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d7f08b37b4d7b7935d2f82e6a85ea332\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\25a4fcffc0358b7e69de342a82199bfd\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\25a4fcffc0358b7e69de342a82199bfd\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\f7129ed9c828ae9a705800a0fbddba92\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\f7129ed9c828ae9a705800a0fbddba92\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d284a0999e8a08afbc84bd187265d514\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\d284a0999e8a08afbc84bd187265d514\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\c4d2b3db94d0d5ede4cd7485ab2f075d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\c4d2b3db94d0d5ede4cd7485ab2f075d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\05020283084f6d5fbd3f44c6e3d1114c\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\05020283084f6d5fbd3f44c6e3d1114c\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\09f68eb3cd3c347260123539a0664a36\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\09f68eb3cd3c347260123539a0664a36\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\c5d9c62826a6449fc73a9047ef44e87f\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\c5d9c62826a6449fc73a9047ef44e87f\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\67b98206da1c17c4c2c6fa386f0b2179\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\67b98206da1c17c4c2c6fa386f0b2179\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\4163bd1c7674ced6549a5f0804e8122c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\4163bd1c7674ced6549a5f0804e8122c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\9cd76c29d52005b7b6ac8956866bb8b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\9cd76c29d52005b7b6ac8956866bb8b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\8f57bdbd234893ecabd0b8af8b415887\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\8f57bdbd234893ecabd0b8af8b415887\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\77485acfa56a8861bb1bb12f65ec9640\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\77485acfa56a8861bb1bb12f65ec9640\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ca9d10a5b4b73c912b9affb8d044fb68\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\ca9d10a5b4b73c912b9affb8d044fb68\cardview-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Griff_Home_PC\Documents\GitHub\HabitTracker\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:4.2.3] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\228c59fae4dc2b9d36d5b9e954d8dba0\jetified-materialdatetimepicker-4.2.3\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:4.2.3] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\228c59fae4dc2b9d36d5b9e954d8dba0\jetified-materialdatetimepicker-4.2.3\AndroidManifest.xml:26:22-63
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\06c4ad93f8113f8650ad2d823b340f0f\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\06c4ad93f8113f8650ad2d823b340f0f\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\06c4ad93f8113f8650ad2d823b340f0f\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\06c4ad93f8113f8650ad2d823b340f0f\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Griff_Home_PC\.gradle\caches\transforms-2\files-2.1\b60774f5623c648703d99409c1640cf8\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
